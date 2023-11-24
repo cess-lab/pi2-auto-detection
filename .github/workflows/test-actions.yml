@@ -6,7 +6,7 @@ jobs:
      runs-on: ubuntu-latest
      steps:
      - run: |
-         curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://raw.githubusercontent.com/cess-lab/pi2-auto-detection-dev/main/trained-models/model-98.79%-2023-12-01 18-25.mat
+         curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://raw.githubusercontent.com/cess-lab/pi2-auto-detection-dev/main/trained-models/model-98.79%25-2023-12-01%2018-25.mat
   push-model:
     runs-on: ubuntu-latest
     steps:
