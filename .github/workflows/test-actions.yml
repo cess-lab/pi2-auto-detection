@@ -11,7 +11,7 @@ jobs:
      - uses: matlab-actions/setup-matlab@v1
      - uses: matlab-actions/run-command@v1
        with:
-          command: githubGet('cess-lab', 'pi2-auto-detection-dev', 'README.md', 'save', Token = $GITHUB_TOKEN)
+          command: githubGet('cess-lab', 'pi2-auto-detection-dev', 'README.md', 'save', Token = '$GITHUB_TOKEN')
      - uses: Andro999b/push@v1.3
        with:
          github_token: $GITHUB_TOKEN
