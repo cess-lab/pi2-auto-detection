@@ -6,10 +6,12 @@ jobs:
      runs-on: ubuntu-latest
      steps:
      - uses: actions/checkout@v4
-     - uses: matlab-actions/setup-matlab@v1
-     - uses: matlab-actions/run-command@v1
        with:
-          command: githubGet('cess-lab', 'pi2-auto-detection-dev', 'trained-models/model-98.79%-2023-12-01 18-25.mat', 'save', Token = ${{ secrets.GITHUB_TOKEN }} )
+         repository: cess-lab/pi2-auto-detection-dev
+         token: ${{ secrets.GITHUB_TOKEN }}
+         sparse-checkout: |
+           README.md
+         sparse-checkout-cone-mode: false
      - uses: Andro999b/push@v1.3
        with:
          github_token: ${{ secrets.GITHUB_TOKEN }}
