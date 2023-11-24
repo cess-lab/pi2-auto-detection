@@ -5,13 +5,8 @@ jobs:
   fetch-model:
      runs-on: ubuntu-latest
      steps:
-       - uses: actions/checkout@v4
-         with: 
-           repository: cess-lab/pi2-auto-detection-dev
-           token: ${{ secrets.GITHUB_TOKEN }}
-           sparse-checkout: |
-             trained-models/model-98.79%-2023-12-01 18-25.mat
-           sparse-checkout-cone-mode: false
+     - run: |
+         curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://raw.githubusercontent.com/cess-lab/pi2-auto-detection-dev/main/trained-models/model-98.79%-2023-12-01 18-25.mat
   push-model:
     runs-on: ubuntu-latest
     steps:
