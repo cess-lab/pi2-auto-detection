@@ -4,16 +4,14 @@ on: workflow_dispatch
 jobs:
   fetch-model:
      runs-on: ubuntu-latest
+     env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
      steps:
      - uses: actions/checkout@v4
+     - uses: matlab-actions/setup-matlab@v1
+     - uses: matlab-actions/run-command@v1
        with:
-         repository: cess-lab/pi2-auto-detection-dev
-         ref: main
-         token: ${{ secrets.GITHUB_TOKEN }}
-         sparse-checkout: |
-           README.md
-         sparse-checkout-cone-mode: false
-     - uses: actions/checkout@v4
+          command: githubGet('cess-lab', 'pi2-auto-detection-dev', 'trained-models/model-98.79%-2023-12-01 18-25.mat', 'save', Token = $GITHUB_TOKEN)
      - uses: Andro999b/push@v1.3
        with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
+         github_token: $GITHUB_TOKEN
