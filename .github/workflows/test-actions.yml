@@ -7,10 +7,7 @@ jobs:
      steps:
      - run: |
          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://raw.githubusercontent.com/cess-lab/pi2-auto-detection-dev/main/trained-models/model-98.79%25-2023-12-01%2018-25.mat
-  push-model:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v4
-    - uses: Andro999b/push@v1.3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+     - uses: actions/checkout@v4
+     - uses: Andro999b/push@v1.3
+       with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
