@@ -1,0 +1,19 @@
+name: Test Actions
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: workflow_dispatch
+jobs:
+  fetch-model:
+     runs-on: ubuntu-latest
+     env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     steps:
+     - uses: actions/checkout@v4
+       with:
+         repository: cess-lab/pi2-auto-detection-dev
+         ref: main
+         sparse-checkout: |
+           README.md
+         token: $GITHUB_TOKEN
+     - uses: Andro999b/push@v1.3
+       with:
+         github_token: $GITHUB_TOKEN
