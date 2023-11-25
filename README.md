@@ -1,7 +1,7 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 25 November 2023, 07:44 AM UT  
-> Prediction completed until: 24 November 2023, 07:41 PM UT  
+> Last updated on: 25 November 2023, 09:04 AM UT  
+> Prediction completed until: 24 November 2023, 03:02 PM UT  
   
 
 | Predicted Pi2 | AE index |
@@ -20,7 +20,7 @@ The system automatically:
 3. records the identified pulsations and produces graphical results, and 
 4. updates the results to this repository.  
   
-Prediction is executed in a 6-hour time block, 12 hours after the beginning of the block, e.g., prediction for 17:00 to 23:00 of 01-01-2023 runs at 05:00 of 02-01-2023.
+Prediction is executed in a 6-hour time block, 24 hours after the beginning of the block, e.g., prediction for 05:00 to 11:00 of 01-01-2023 runs at 05:00 of 02-01-2023.
   
 ### Contributors
   
