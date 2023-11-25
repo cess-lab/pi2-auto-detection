@@ -1,6 +1,6 @@
 clc; clearvars; close all;
 NowUT = dateshift(datetime('now', TimeZone = 'UTC'), 'start', 'second');
-ObsUT = NowUT - hours(6) : seconds(1) : NowUT - hours(3) - seconds(1);
+ObsUT = NowUT - hours(48) : seconds(1) : NowUT - hours(3) - seconds(1);
 NumPi2Found = 0; 
 DataServer = 'https://imag-data.bgs.ac.uk/GIN_V1/GINServices?Request=GetData&format=imagcdf&observatoryIagaCode=%s&publicationState=adj-or-rep&dataStartDate=%s&dataDuration=%d&samplesPerDay=second';
 Model = load(fullfile('Model.mat')).BestModel;
@@ -116,6 +116,3 @@ if height(PredictedPi2) > height(OriginalPredictedPi2)
 end
 updateReadme(ObsUT(end));
 updateFullRecords;
-system('git add predicted-pi2\* wdc-ae\* PredictedPi2.mat README.md FullRecords.md');
-system(sprintf('git commit -m "Update predictions for %s UT to %s UT"', ObsUT(1), ObsUT(end)));
-system('git push');
