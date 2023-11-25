@@ -53,7 +53,7 @@ BottomString = [...
     "3. records the identified pulsations and produces graphical results, and ";
     "4. updates the results to this repository.  ";
     "  ";
-    "Prediction is executed in a 12-hour time block, 24 hours after the beginning of the block, e.g., prediction for 05:00 to 17:00 of 01-01-2023 runs at 05:00 of 02-01-2023.";
+    "Prediction is executed in a 6-hour time block, 24 hours after the beginning of the block, e.g., prediction for 05:00 to 11:00 of 01-01-2023 runs at 05:00 of 02-01-2023.";
     "  ";
     "### Contributors";
     "  ";

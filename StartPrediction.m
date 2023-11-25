@@ -1,6 +1,6 @@
 clc; clearvars; close all;
 NowUT = dateshift(datetime('now', TimeZone = 'UTC'), 'start', 'second');
-ObsUT = NowUT - hours(24) : seconds(1) : NowUT - hours(12) - seconds(1);
+ObsUT = NowUT - hours(24) : seconds(1) : NowUT - hours(18) - seconds(1);
 NumPi2Found = 0; 
 DataServer = 'https://imag-data.bgs.ac.uk/GIN_V1/GINServices?Request=GetData&format=imagcdf&observatoryIagaCode=%s&publicationState=adj-or-rep&dataStartDate=%s&dataDuration=%d&samplesPerDay=second';
 Model = load(fullfile('Model.mat')).BestModel;
