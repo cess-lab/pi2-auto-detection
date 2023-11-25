@@ -5,8 +5,6 @@ jobs:
   update-predictions:
      name: Update Pi2 Predictions
      runs-on: ubuntu-latest
-     env:
-       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
      permissions:
        contents: write
      steps:
@@ -16,14 +14,14 @@ jobs:
          lfs: true
      - name: Set up MATLAB
        uses: matlab-actions/setup-matlab@v1
-     - name: Run script
-       uses: matlab-actions/run-command@v1
-       with:
-          command: StartPrediction
+     # - name: Run script
+       # uses: matlab-actions/run-command@v1
+       # with:
+         # command: StartPrediction
      - name: Commit and push
        uses: github-actions-x/commit@v2.9
        with:
-         github-token: $GITHUB_TOKEN
+         github-token: ${{ secrets.GITHUB_TOKEN }}
          push-branch: 'main'
          commit-message: 'Update predictions'
          force-add: 'true'
