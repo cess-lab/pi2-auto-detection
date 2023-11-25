@@ -1,0 +1,30 @@
+name: Update Pi2 Predictions
+run-name: Updated by ${{ github.actor }} 
+on: workflow_dispatch
+jobs:
+  update-predictions:
+     runs-on: ubuntu-latest
+     env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     permissions:
+       contents: write
+     steps:
+     - name: Checkout repo 
+       uses: actions/checkout@v4
+     - name: Build MATLAB
+       uses: matlab-actions/run-build@v1
+     - name: Run script
+       uses: matlab-actions/run-command@v1
+       with:
+          command: StartPrediction
+     - name: Commit and push
+       uses: github-actions-x/commit@v2.9
+       with:
+         github-token: $GITHUB_TOKEN
+         push-branch: 'main'
+         commit-message: 'Update predictions'
+         force-add: 'true'
+         files: predicted-pi2\* wdc-ae\* PredictedPi2.mat README.md FullRecords.md
+         name: Adib Yusof
+         email: adib.yusof@upm.edu.my
+
