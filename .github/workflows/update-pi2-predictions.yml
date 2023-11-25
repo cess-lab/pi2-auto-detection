@@ -1,8 +1,9 @@
 name: Update Pi2 Predictions
-run-name: Updated by ${{ github.actor }} 
+run-name: Pi2 predictions updated by ${{ github.actor }} 
 on: workflow_dispatch
 jobs:
   update-predictions:
+     name: Update Pi2 Predictions
      runs-on: ubuntu-latest
      env:
        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -11,8 +12,8 @@ jobs:
      steps:
      - name: Checkout repo 
        uses: actions/checkout@v4
-     - name: Build MATLAB
-       uses: matlab-actions/run-build@v1
+     - name: Set up MATLAB
+       uses: matlab-actions/setup-matlab@v1
      - name: Run script
        uses: matlab-actions/run-command@v1
        with:
