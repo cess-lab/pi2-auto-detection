@@ -8,26 +8,22 @@ jobs:
      permissions:
        contents: write
      env:
-       GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
      steps:
      - name: Checkout repo 
        uses: actions/checkout@v4
        with: 
          lfs: true
-     # - name: Set up MATLAB
-     #  uses: matlab-actions/setup-matlab@v1
-     # - name: Run script
-       # uses: matlab-actions/run-command@v1
-       # with:
-         # command: StartPrediction
-     - name: Commit and push
-       uses: github-actions-x/commit@v2.9
+     - name: Set up MATLAB
+       uses: matlab-actions/setup-matlab@v1
+     - name: Run script
+       uses: matlab-actions/run-command@v1
        with:
-         github-token: $GITHUB_TOKEN
-         push-branch: 'main'
-         commit-message: 'Update predictions'
-         force-add: 'true'
-         # files: predicted-pi2\* wdc-ae\* PredictedPi2.mat README.md FullRecords.md
-         name: Adib Yusof
-         email: adib.yusof@upm.edu.my
-
+         command: StartPrediction
+     - name: Commit and push
+     - uses: stefanzweifel/git-auto-commit-action@v5
+       with:
+         branch: 'main'
+         commit_message: 'Update predictions'
+         commit_user_name: khairuladib94
+         commit_user_email: adib.yusof@upm.edu.my
