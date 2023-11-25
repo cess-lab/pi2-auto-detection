@@ -7,6 +7,8 @@ jobs:
      runs-on: ubuntu-latest
      permissions:
        contents: write
+     env:
+       GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
      steps:
      - name: Checkout repo 
        uses: actions/checkout@v4
@@ -21,7 +23,7 @@ jobs:
      - name: Commit and push
        uses: github-actions-x/commit@v2.9
        with:
-         github-token: ${{ secrets.GITHUB_TOKEN }}
+         github-token: $GITHUB_TOKEN
          push-branch: 'main'
          commit-message: 'Update predictions'
          force-add: 'true'
