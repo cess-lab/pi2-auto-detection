@@ -31,4 +31,4 @@ Prediction is executed in a 6-hour time block, 24 hours after the beginning of t
 - [Khairul Adib Yusof](https://github.com/khairuladib94)  
   
 [^1]: KAK, LRM, WMQ, IZN, FUR, EBR, TDC, SJG, TUC, HON and CNB   
-[^2]: The [model](trained-models) was trained based on AutoML framework utilizing [Wp index](https://www.isee.nagoya-u.ac.jp/~nose.masahito/s-cubed/data/) data for labelling   
+[^2]: The [model](Model.mat) was trained based on AutoML framework utilizing [Wp index](https://www.isee.nagoya-u.ac.jp/~nose.masahito/s-cubed/data/) data for labelling   
