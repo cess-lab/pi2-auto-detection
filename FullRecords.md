@@ -1,7 +1,8 @@
-> Last updated on: 18 December 2023, 12:08 AM UT
+> Last updated on: 18 December 2023, 06:05 AM UT
   
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 17 Dec 2023, 07:35:11 UT <img src="predicted-pi2/2023-12-17%2007-35-11%20UT%20TUC.png" width="500"/> |  17 Dec 2023 <img src="wdc-ae/2023-12-17%2007-35-11%20UT%20TUC%2020231217.png" width="500"/> |
 | 16 Dec 2023, 15:13:30 UT <img src="predicted-pi2/2023-12-16%2015-13-30%20UT%20LRM.png" width="500"/> |  16 Dec 2023 <img src="wdc-ae/2023-12-16%2015-13-30%20UT%20LRM%2020231216.png" width="500"/> |
 | 16 Dec 2023, 12:51:14 UT <img src="predicted-pi2/2023-12-16%2012-51-14%20UT%20CNB.png" width="500"/> |  16 Dec 2023 <img src="wdc-ae/2023-12-16%2012-51-14%20UT%20CNB%2020231216.png" width="500"/> |
 | 16 Dec 2023, 12:34:44 UT <img src="predicted-pi2/2023-12-16%2012-34-44%20UT%20CNB.png" width="500"/> |  16 Dec 2023 <img src="wdc-ae/2023-12-16%2012-34-44%20UT%20CNB%2020231216.png" width="500"/> |
