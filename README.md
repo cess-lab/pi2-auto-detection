@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 20 December 2023, 12:05 PM UT  
-> Prediction completed until: 19 December 2023, 06:02 PM UT  
+> Last updated on: 20 December 2023, 06:04 PM UT  
+> Prediction completed until: 20 December 2023, 12:03 AM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 19 Dec 2023, 22:08:53 UT <img src="predicted-pi2/2023-12-19%2022-08-53%20UT%20FUR.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2022-08-53%20UT%20FUR%2020231219.png" width="500"/> |
+| 19 Dec 2023, 21:50:23 UT <img src="predicted-pi2/2023-12-19%2021-50-23%20UT%20FUR.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2021-50-23%20UT%20FUR%2020231219.png" width="500"/> |
+| 19 Dec 2023, 21:29:23 UT <img src="predicted-pi2/2023-12-19%2021-29-23%20UT%20FUR.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2021-29-23%20UT%20FUR%2020231219.png" width="500"/> |
 | 19 Dec 2023, 16:39:30 UT <img src="predicted-pi2/2023-12-19%2016-39-30%20UT%20LRM.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2016-39-30%20UT%20LRM%2020231219.png" width="500"/> |
 | 19 Dec 2023, 16:29:17 UT <img src="predicted-pi2/2023-12-19%2016-29-17%20UT%20KAK.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2016-29-17%20UT%20KAK%2020231219.png" width="500"/> |
-| 19 Dec 2023, 16:29:00 UT <img src="predicted-pi2/2023-12-19%2016-29-00%20UT%20LRM.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2016-29-00%20UT%20LRM%2020231219.png" width="500"/> |
-| 18 Dec 2023, 13:57:43 UT <img src="predicted-pi2/2023-12-18%2013-57-43%20UT%20CNB.png" width="500"/> |  18 Dec 2023 <img src="wdc-ae/2023-12-18%2013-57-43%20UT%20CNB%2020231218.png" width="500"/> |
-| 18 Dec 2023, 13:27:43 UT <img src="predicted-pi2/2023-12-18%2013-27-43%20UT%20CNB.png" width="500"/> |  18 Dec 2023 <img src="wdc-ae/2023-12-18%2013-27-43%20UT%20CNB%2020231218.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
