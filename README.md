@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 22 December 2023, 12:07 AM UT  
-> Prediction completed until: 21 December 2023, 06:06 AM UT  
+> Last updated on: 22 December 2023, 06:04 AM UT  
+> Prediction completed until: 21 December 2023, 12:03 PM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 21 Dec 2023, 11:09:30 UT <img src="predicted-pi2/2023-12-21%2011-09-30%20UT%20HON.png" width="500"/> |  21 Dec 2023 <img src="wdc-ae/2023-12-21%2011-09-30%20UT%20HON%2020231221.png" width="500"/> |
 | 21 Dec 2023, 00:20:13 UT <img src="predicted-pi2/2023-12-21%2000-20-13%20UT%20FUR.png" width="500"/> |  21 Dec 2023 <img src="wdc-ae/2023-12-21%2000-20-13%20UT%20FUR%2020231221.png" width="500"/> |
 | 19 Dec 2023, 22:08:53 UT <img src="predicted-pi2/2023-12-19%2022-08-53%20UT%20FUR.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2022-08-53%20UT%20FUR%2020231219.png" width="500"/> |
 | 19 Dec 2023, 21:50:23 UT <img src="predicted-pi2/2023-12-19%2021-50-23%20UT%20FUR.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2021-50-23%20UT%20FUR%2020231219.png" width="500"/> |
 | 19 Dec 2023, 21:29:23 UT <img src="predicted-pi2/2023-12-19%2021-29-23%20UT%20FUR.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2021-29-23%20UT%20FUR%2020231219.png" width="500"/> |
-| 19 Dec 2023, 16:39:30 UT <img src="predicted-pi2/2023-12-19%2016-39-30%20UT%20LRM.png" width="500"/> |  19 Dec 2023 <img src="wdc-ae/2023-12-19%2016-39-30%20UT%20LRM%2020231219.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
