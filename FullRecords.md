@@ -1,4 +1,4 @@
-> Last updated on: 31 January 2024, 06:04 PM UT
+> Last updated on: 01 February 2024, 06:04 AM UT
   
 | Predicted Pi2 | AE index |
 | :---: | :---: |
