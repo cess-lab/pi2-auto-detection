@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 14 February 2024, 06:04 AM UT  
-> Prediction completed until: 13 February 2024, 12:03 PM UT  
+> Last updated on: 14 February 2024, 12:05 PM UT  
+> Prediction completed until: 13 February 2024, 06:03 PM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
-| 11 Feb 2024, 16:58:30 UT <img src="predicted-pi2/2024-02-11%2016-58-30%20UT%20LRM.png" width="500"/> |  11 Feb 2024 <img src="wdc-ae/2024-02-11%2016-58-30%20UT%20LRM%2020240211.png" width="500"/> |
-| 11 Feb 2024, 12:59:47 UT <img src="predicted-pi2/2024-02-11%2012-59-47%20UT%20KAK.png" width="500"/> |  11 Feb 2024 <img src="wdc-ae/2024-02-11%2012-59-47%20UT%20KAK%2020240211.png" width="500"/> |
-| 10 Feb 2024, 13:59:47 UT <img src="predicted-pi2/2024-02-10%2013-59-47%20UT%20KAK.png" width="500"/> |  10 Feb 2024 <img src="wdc-ae/2024-02-10%2013-59-47%20UT%20KAK%2020240210.png" width="500"/> |
-| 10 Feb 2024, 12:59:47 UT <img src="predicted-pi2/2024-02-10%2012-59-47%20UT%20KAK.png" width="500"/> |  10 Feb 2024 <img src="wdc-ae/2024-02-10%2012-59-47%20UT%20KAK%2020240210.png" width="500"/> |
-| 09 Feb 2024, 14:59:47 UT <img src="predicted-pi2/2024-02-09%2014-59-47%20UT%20KAK.png" width="500"/> |  09 Feb 2024 <img src="wdc-ae/2024-02-09%2014-59-47%20UT%20KAK%2020240209.png" width="500"/> |
+| 13 Feb 2024, 16:33:30 UT <img src="predicted-pi2/2024-02-13%2016-33-30%20UT%20LRM.png" width="500"/> |  13 Feb 2024 <img src="wdc-ae/2024-02-13%2016-33-30%20UT%20LRM%2020240213.png" width="500"/> |
+| 13 Feb 2024, 16:24:47 UT <img src="predicted-pi2/2024-02-13%2016-24-47%20UT%20KAK.png" width="500"/> |  13 Feb 2024 <img src="wdc-ae/2024-02-13%2016-24-47%20UT%20KAK%2020240213.png" width="500"/> |
+| 13 Feb 2024, 16:22:00 UT <img src="predicted-pi2/2024-02-13%2016-22-00%20UT%20LRM.png" width="500"/> |  13 Feb 2024 <img src="wdc-ae/2024-02-13%2016-22-00%20UT%20LRM%2020240213.png" width="500"/> |
+| 13 Feb 2024, 16:06:30 UT <img src="predicted-pi2/2024-02-13%2016-06-30%20UT%20LRM.png" width="500"/> |  13 Feb 2024 <img src="wdc-ae/2024-02-13%2016-06-30%20UT%20LRM%2020240213.png" width="500"/> |
+| 13 Feb 2024, 15:51:00 UT <img src="predicted-pi2/2024-02-13%2015-51-00%20UT%20LRM.png" width="500"/> |  13 Feb 2024 <img src="wdc-ae/2024-02-13%2015-51-00%20UT%20LRM%2020240213.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
