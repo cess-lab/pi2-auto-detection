@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 19 February 2024, 06:04 AM UT  
-> Prediction completed until: 18 February 2024, 12:03 PM UT  
+> Last updated on: 19 February 2024, 12:05 PM UT  
+> Prediction completed until: 18 February 2024, 06:03 PM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 18 Feb 2024, 14:59:47 UT <img src="predicted-pi2/2024-02-18%2014-59-47%20UT%20KAK.png" width="500"/> |  18 Feb 2024 <img src="wdc-ae/2024-02-18%2014-59-47%20UT%20KAK%2020240218.png" width="500"/> |
+| 18 Feb 2024, 12:59:47 UT <img src="predicted-pi2/2024-02-18%2012-59-47%20UT%20KAK.png" width="500"/> |  18 Feb 2024 <img src="wdc-ae/2024-02-18%2012-59-47%20UT%20KAK%2020240218.png" width="500"/> |
 | 17 Feb 2024, 14:59:47 UT <img src="predicted-pi2/2024-02-17%2014-59-47%20UT%20KAK.png" width="500"/> |  17 Feb 2024 <img src="wdc-ae/2024-02-17%2014-59-47%20UT%20KAK%2020240217.png" width="500"/> |
 | 16 Feb 2024, 23:16:23 UT <img src="predicted-pi2/2024-02-16%2023-16-23%20UT%20FUR.png" width="500"/> |  16 Feb 2024 <img src="wdc-ae/2024-02-16%2023-16-23%20UT%20FUR%2020240216.png" width="500"/> |
 | 16 Feb 2024, 23:06:23 UT <img src="predicted-pi2/2024-02-16%2023-06-23%20UT%20FUR.png" width="500"/> |  16 Feb 2024 <img src="wdc-ae/2024-02-16%2023-06-23%20UT%20FUR%2020240216.png" width="500"/> |
-| 16 Feb 2024, 14:59:47 UT <img src="predicted-pi2/2024-02-16%2014-59-47%20UT%20KAK.png" width="500"/> |  16 Feb 2024 <img src="wdc-ae/2024-02-16%2014-59-47%20UT%20KAK%2020240216.png" width="500"/> |
-| 16 Feb 2024, 12:59:47 UT <img src="predicted-pi2/2024-02-16%2012-59-47%20UT%20KAK.png" width="500"/> |  16 Feb 2024 <img src="wdc-ae/2024-02-16%2012-59-47%20UT%20KAK%2020240216.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
