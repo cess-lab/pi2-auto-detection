@@ -18,7 +18,9 @@ catch
     [PredictedPi2.LTStart.TimeZone, PredictedPi2.UTStart.TimeZone] = deal('UTC');
 end
 OriginalPredictedPi2 = PredictedPi2;
+BrokenStationList=[];
 % Station loop
+i=1;
 for s = 1 : height(StationList)
     StationCode = StationList.Code{s};
     ObsDateUT = dateshift(datetime([ObsUT(1), ObsUT(end)], Format = 'yyyy-MM-dd'), 'start', 'day');
@@ -33,7 +35,11 @@ for s = 1 : height(StationList)
     catch
         continue;
     end
-    DataContents = cdfread(FilePath, Variable = {'GeomagneticFieldX', 'GeomagneticFieldY', 'DataTimes'});
+    try
+        DataContents = cdfread(FilePath, Variable = {'GeomagneticFieldX', 'GeomagneticFieldY', 'DataTimes'});
+    catch
+        continue;
+    end
     delete(FilePath);
     GeomagneticXY = standardizeMissing(cell2mat(DataContents(:, 1:2)), 99999);
     GeomagneticXY = standardizeMissing(GeomagneticXY, 99999);
