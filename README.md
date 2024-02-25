@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 25 February 2024, 06:04 AM UT  
-> Prediction completed until: 24 February 2024, 12:02 PM UT  
+> Last updated on: 25 February 2024, 12:05 PM UT  
+> Prediction completed until: 24 February 2024, 06:03 PM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 24 Feb 2024, 15:59:47 UT <img src="predicted-pi2/2024-02-24%2015-59-47%20UT%20KAK.png" width="500"/> |  24 Feb 2024 <img src="wdc-ae/2024-02-24%2015-59-47%20UT%20KAK%2020240224.png" width="500"/> |
+| 24 Feb 2024, 14:59:47 UT <img src="predicted-pi2/2024-02-24%2014-59-47%20UT%20KAK.png" width="500"/> |  24 Feb 2024 <img src="wdc-ae/2024-02-24%2014-59-47%20UT%20KAK%2020240224.png" width="500"/> |
+| 24 Feb 2024, 13:59:47 UT <img src="predicted-pi2/2024-02-24%2013-59-47%20UT%20KAK.png" width="500"/> |  24 Feb 2024 <img src="wdc-ae/2024-02-24%2013-59-47%20UT%20KAK%2020240224.png" width="500"/> |
 | 23 Feb 2024, 21:18:23 UT <img src="predicted-pi2/2024-02-23%2021-18-23%20UT%20FUR.png" width="500"/> |  23 Feb 2024 <img src="wdc-ae/2024-02-23%2021-18-23%20UT%20FUR%2020240223.png" width="500"/> |
 | 23 Feb 2024, 12:59:47 UT <img src="predicted-pi2/2024-02-23%2012-59-47%20UT%20KAK.png" width="500"/> |  23 Feb 2024 <img src="wdc-ae/2024-02-23%2012-59-47%20UT%20KAK%2020240223.png" width="500"/> |
-| 20 Feb 2024, 23:06:23 UT <img src="predicted-pi2/2024-02-20%2023-06-23%20UT%20FUR.png" width="500"/> |  20 Feb 2024 <img src="wdc-ae/2024-02-20%2023-06-23%20UT%20FUR%2020240220.png" width="500"/> |
-| 20 Feb 2024, 13:59:47 UT <img src="predicted-pi2/2024-02-20%2013-59-47%20UT%20KAK.png" width="500"/> |  20 Feb 2024 <img src="wdc-ae/2024-02-20%2013-59-47%20UT%20KAK%2020240220.png" width="500"/> |
-| 20 Feb 2024, 12:59:47 UT <img src="predicted-pi2/2024-02-20%2012-59-47%20UT%20KAK.png" width="500"/> |  20 Feb 2024 <img src="wdc-ae/2024-02-20%2012-59-47%20UT%20KAK%2020240220.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
