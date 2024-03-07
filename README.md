@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 07 March 2024, 06:04 AM UT  
-> Prediction completed until: 06 March 2024, 12:03 PM UT  
+> Last updated on: 07 March 2024, 12:06 PM UT  
+> Prediction completed until: 06 March 2024, 06:03 PM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 06 Mar 2024, 15:32:00 UT <img src="predicted-pi2/2024-03-06%2015-32-00%20UT%20LRM.png" width="500"/> |  06 Mar 2024 <img src="wdc-ae/2024-03-06%2015-32-00%20UT%20LRM%2020240306.png" width="500"/> |
+| 06 Mar 2024, 15:08:30 UT <img src="predicted-pi2/2024-03-06%2015-08-30%20UT%20LRM.png" width="500"/> |  06 Mar 2024 <img src="wdc-ae/2024-03-06%2015-08-30%20UT%20LRM%2020240306.png" width="500"/> |
 | 05 Mar 2024, 06:07:43 UT <img src="predicted-pi2/2024-03-05%2006-07-43%20UT%20TUC.png" width="500"/> |  05 Mar 2024 <img src="wdc-ae/2024-03-05%2006-07-43%20UT%20TUC%2020240305.png" width="500"/> |
 | 03 Mar 2024, 23:18:53 UT <img src="predicted-pi2/2024-03-03%2023-18-53%20UT%20FUR.png" width="500"/> |  03 Mar 2024 <img src="wdc-ae/2024-03-03%2023-18-53%20UT%20FUR%2020240303.png" width="500"/> |
 | 03 Mar 2024, 13:49:32 UT <img src="predicted-pi2/2024-03-03%2013-49-32%20UT%20CNB.png" width="500"/> |  03 Mar 2024 <img src="wdc-ae/2024-03-03%2013-49-32%20UT%20CNB%2020240303.png" width="500"/> |
-| 03 Mar 2024, 13:31:02 UT <img src="predicted-pi2/2024-03-03%2013-31-02%20UT%20CNB.png" width="500"/> |  03 Mar 2024 <img src="wdc-ae/2024-03-03%2013-31-02%20UT%20CNB%2020240303.png" width="500"/> |
-| 03 Mar 2024, 13:21:02 UT <img src="predicted-pi2/2024-03-03%2013-21-02%20UT%20CNB.png" width="500"/> |  03 Mar 2024 <img src="wdc-ae/2024-03-03%2013-21-02%20UT%20CNB%2020240303.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
