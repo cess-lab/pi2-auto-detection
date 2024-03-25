@@ -1,7 +1,9 @@
-> Last updated on: 25 March 2024, 12:06 PM UT
+> Last updated on: 25 March 2024, 06:04 PM UT
   
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 24 Mar 2024, 23:14:53 UT <img src="predicted-pi2/2024-03-24%2023-14-53%20UT%20FUR.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2023-14-53%20UT%20FUR%2020240324.png" width="500"/> |
+| 24 Mar 2024, 21:24:23 UT <img src="predicted-pi2/2024-03-24%2021-24-23%20UT%20FUR.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2021-24-23%20UT%20FUR%2020240324.png" width="500"/> |
 | 24 Mar 2024, 17:07:00 UT <img src="predicted-pi2/2024-03-24%2017-07-00%20UT%20LRM.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2017-07-00%20UT%20LRM%2020240324.png" width="500"/> |
 | 24 Mar 2024, 16:52:00 UT <img src="predicted-pi2/2024-03-24%2016-52-00%20UT%20LRM.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2016-52-00%20UT%20LRM%2020240324.png" width="500"/> |
 | 24 Mar 2024, 16:42:00 UT <img src="predicted-pi2/2024-03-24%2016-42-00%20UT%20LRM.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2016-42-00%20UT%20LRM%2020240324.png" width="500"/> |
