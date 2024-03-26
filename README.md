@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 25 March 2024, 06:04 PM UT  
-> Prediction completed until: 25 March 2024, 12:03 AM UT  
+> Last updated on: 26 March 2024, 12:07 AM UT  
+> Prediction completed until: 25 March 2024, 06:05 AM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
-| 24 Mar 2024, 23:14:53 UT <img src="predicted-pi2/2024-03-24%2023-14-53%20UT%20FUR.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2023-14-53%20UT%20FUR%2020240324.png" width="500"/> |
-| 24 Mar 2024, 21:24:23 UT <img src="predicted-pi2/2024-03-24%2021-24-23%20UT%20FUR.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2021-24-23%20UT%20FUR%2020240324.png" width="500"/> |
-| 24 Mar 2024, 17:07:00 UT <img src="predicted-pi2/2024-03-24%2017-07-00%20UT%20LRM.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2017-07-00%20UT%20LRM%2020240324.png" width="500"/> |
-| 24 Mar 2024, 16:52:00 UT <img src="predicted-pi2/2024-03-24%2016-52-00%20UT%20LRM.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2016-52-00%20UT%20LRM%2020240324.png" width="500"/> |
-| 24 Mar 2024, 16:42:00 UT <img src="predicted-pi2/2024-03-24%2016-42-00%20UT%20LRM.png" width="500"/> |  24 Mar 2024 <img src="wdc-ae/2024-03-24%2016-42-00%20UT%20LRM%2020240324.png" width="500"/> |
+| 25 Mar 2024, 05:52:36 UT <img src="predicted-pi2/2024-03-25%2005-52-36%20UT%20SJG.png" width="500"/> |  25 Mar 2024 <img src="wdc-ae/2024-03-25%2005-52-36%20UT%20SJG%2020240325.png" width="500"/> |
+| 25 Mar 2024, 05:46:26 UT <img src="predicted-pi2/2024-03-25%2005-46-26%20UT%20TUC.png" width="500"/> |  25 Mar 2024 <img src="wdc-ae/2024-03-25%2005-46-26%20UT%20TUC%2020240325.png" width="500"/> |
+| 25 Mar 2024, 05:35:56 UT <img src="predicted-pi2/2024-03-25%2005-35-56%20UT%20TUC.png" width="500"/> |  25 Mar 2024 <img src="wdc-ae/2024-03-25%2005-35-56%20UT%20TUC%2020240325.png" width="500"/> |
+| 25 Mar 2024, 05:24:26 UT <img src="predicted-pi2/2024-03-25%2005-24-26%20UT%20TUC.png" width="500"/> |  25 Mar 2024 <img src="wdc-ae/2024-03-25%2005-24-26%20UT%20TUC%2020240325.png" width="500"/> |
+| 25 Mar 2024, 04:19:06 UT <img src="predicted-pi2/2024-03-25%2004-19-06%20UT%20SJG.png" width="500"/> |  25 Mar 2024 <img src="wdc-ae/2024-03-25%2004-19-06%20UT%20SJG%2020240325.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
