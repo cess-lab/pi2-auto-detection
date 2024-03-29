@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 28 March 2024, 06:04 PM UT  
-> Prediction completed until: 28 March 2024, 12:03 AM UT  
+> Last updated on: 29 March 2024, 12:07 AM UT  
+> Prediction completed until: 28 March 2024, 06:06 AM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 28 Mar 2024, 05:47:56 UT <img src="predicted-pi2/2024-03-28%2005-47-56%20UT%20TUC.png" width="500"/> |  28 Mar 2024 <img src="wdc-ae/2024-03-28%2005-47-56%20UT%20TUC%2020240328.png" width="500"/> |
+| 28 Mar 2024, 05:33:56 UT <img src="predicted-pi2/2024-03-28%2005-33-56%20UT%20TUC.png" width="500"/> |  28 Mar 2024 <img src="wdc-ae/2024-03-28%2005-33-56%20UT%20TUC%2020240328.png" width="500"/> |
+| 28 Mar 2024, 00:46:17 UT <img src="predicted-pi2/2024-03-28%2000-46-17%20UT%20FUR.png" width="500"/> |  28 Mar 2024 <img src="wdc-ae/2024-03-28%2000-46-17%20UT%20FUR%2020240328.png" width="500"/> |
 | 27 Mar 2024, 23:33:23 UT <img src="predicted-pi2/2024-03-27%2023-33-23%20UT%20FUR.png" width="500"/> |  27 Mar 2024 <img src="wdc-ae/2024-03-27%2023-33-23%20UT%20FUR%2020240327.png" width="500"/> |
 | 26 Mar 2024, 21:32:23 UT <img src="predicted-pi2/2024-03-26%2021-32-23%20UT%20FUR.png" width="500"/> |  26 Mar 2024 <img src="wdc-ae/2024-03-26%2021-32-23%20UT%20FUR%2020240326.png" width="500"/> |
-| 26 Mar 2024, 21:22:23 UT <img src="predicted-pi2/2024-03-26%2021-22-23%20UT%20FUR.png" width="500"/> |  26 Mar 2024 <img src="wdc-ae/2024-03-26%2021-22-23%20UT%20FUR%2020240326.png" width="500"/> |
-| 26 Mar 2024, 15:35:30 UT <img src="predicted-pi2/2024-03-26%2015-35-30%20UT%20LRM.png" width="500"/> |  26 Mar 2024 <img src="wdc-ae/2024-03-26%2015-35-30%20UT%20LRM%2020240326.png" width="500"/> |
-| 26 Mar 2024, 15:13:30 UT <img src="predicted-pi2/2024-03-26%2015-13-30%20UT%20LRM.png" width="500"/> |  26 Mar 2024 <img src="wdc-ae/2024-03-26%2015-13-30%20UT%20LRM%2020240326.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
