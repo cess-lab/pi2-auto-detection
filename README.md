@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 27 April 2024, 06:05 AM UT  
-> Prediction completed until: 26 April 2024, 12:03 PM UT  
+> Last updated on: 27 April 2024, 12:05 PM UT  
+> Prediction completed until: 26 April 2024, 06:03 PM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
-| 26 Apr 2024, 11:28:30 UT <img src="predicted-pi2/2024-04-26%2011-28-30%20UT%20HON.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2011-28-30%20UT%20HON%2020240426.png" width="500"/> |
-| 26 Apr 2024, 06:27:00 UT <img src="predicted-pi2/2024-04-26%2006-27-00%20UT%20TUC.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2006-27-00%20UT%20TUC%2020240426.png" width="500"/> |
-| 26 Apr 2024, 06:05:30 UT <img src="predicted-pi2/2024-04-26%2006-05-30%20UT%20TUC.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2006-05-30%20UT%20TUC%2020240426.png" width="500"/> |
-| 24 Apr 2024, 21:43:23 UT <img src="predicted-pi2/2024-04-24%2021-43-23%20UT%20FUR.png" width="500"/> |  24 Apr 2024 <img src="wdc-ae/2024-04-24%2021-43-23%20UT%20FUR%2020240424.png" width="500"/> |
-| 21 Apr 2024, 12:50:56 UT <img src="predicted-pi2/2024-04-21%2012-50-56%20UT%20CNB.png" width="500"/> |  21 Apr 2024 <img src="wdc-ae/2024-04-21%2012-50-56%20UT%20CNB%2020240421.png" width="500"/> |
+| 26 Apr 2024, 14:49:30 UT <img src="predicted-pi2/2024-04-26%2014-49-30%20UT%20LRM.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2014-49-30%20UT%20LRM%2020240426.png" width="500"/> |
+| 26 Apr 2024, 14:46:15 UT <img src="predicted-pi2/2024-04-26%2014-46-15%20UT%20CNB.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2014-46-15%20UT%20CNB%2020240426.png" width="500"/> |
+| 26 Apr 2024, 12:58:15 UT <img src="predicted-pi2/2024-04-26%2012-58-15%20UT%20CNB.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2012-58-15%20UT%20CNB%2020240426.png" width="500"/> |
+| 26 Apr 2024, 12:43:45 UT <img src="predicted-pi2/2024-04-26%2012-43-45%20UT%20CNB.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2012-43-45%20UT%20CNB%2020240426.png" width="500"/> |
+| 26 Apr 2024, 12:17:45 UT <img src="predicted-pi2/2024-04-26%2012-17-45%20UT%20CNB.png" width="500"/> |  26 Apr 2024 <img src="wdc-ae/2024-04-26%2012-17-45%20UT%20CNB%2020240426.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
