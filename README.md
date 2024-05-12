@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 12 May 2024, 12:06 PM UT  
-> Prediction completed until: 11 May 2024, 06:03 PM UT  
+> Last updated on: 12 May 2024, 06:05 PM UT  
+> Prediction completed until: 12 May 2024, 12:03 AM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
-| 11 May 2024, 17:36:30 UT <img src="predicted-pi2/2024-05-11%2017-36-30%20UT%20LRM.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2017-36-30%20UT%20LRM%2020240511.png" width="500"/> |
-| 11 May 2024, 16:51:00 UT <img src="predicted-pi2/2024-05-11%2016-51-00%20UT%20LRM.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2016-51-00%20UT%20LRM%2020240511.png" width="500"/> |
-| 11 May 2024, 15:30:22 UT <img src="predicted-pi2/2024-05-11%2015-30-22%20UT%20CNB.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2015-30-22%20UT%20CNB%2020240511.png" width="500"/> |
-| 11 May 2024, 15:09:22 UT <img src="predicted-pi2/2024-05-11%2015-09-22%20UT%20CNB.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2015-09-22%20UT%20CNB%2020240511.png" width="500"/> |
-| 11 May 2024, 15:08:00 UT <img src="predicted-pi2/2024-05-11%2015-08-00%20UT%20LRM.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2015-08-00%20UT%20LRM%2020240511.png" width="500"/> |
+| 11 May 2024, 23:32:23 UT <img src="predicted-pi2/2024-05-11%2023-32-23%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2023-32-23%20UT%20FUR%2020240511.png" width="500"/> |
+| 11 May 2024, 22:54:23 UT <img src="predicted-pi2/2024-05-11%2022-54-23%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2022-54-23%20UT%20FUR%2020240511.png" width="500"/> |
+| 11 May 2024, 22:44:23 UT <img src="predicted-pi2/2024-05-11%2022-44-23%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2022-44-23%20UT%20FUR%2020240511.png" width="500"/> |
+| 11 May 2024, 22:34:23 UT <img src="predicted-pi2/2024-05-11%2022-34-23%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2022-34-23%20UT%20FUR%2020240511.png" width="500"/> |
+| 11 May 2024, 22:23:23 UT <img src="predicted-pi2/2024-05-11%2022-23-23%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2022-23-23%20UT%20FUR%2020240511.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
