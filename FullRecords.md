@@ -1,7 +1,18 @@
-> Last updated on: 11 May 2024, 06:04 PM UT
+> Last updated on: 12 May 2024, 12:08 AM UT
   
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 11 May 2024, 05:51:26 UT <img src="predicted-pi2/2024-05-11%2005-51-26%20UT%20TUC.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2005-51-26%20UT%20TUC%2020240511.png" width="500"/> |
+| 11 May 2024, 05:42:36 UT <img src="predicted-pi2/2024-05-11%2005-42-36%20UT%20SJG.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2005-42-36%20UT%20SJG%2020240511.png" width="500"/> |
+| 11 May 2024, 05:22:56 UT <img src="predicted-pi2/2024-05-11%2005-22-56%20UT%20TUC.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2005-22-56%20UT%20TUC%2020240511.png" width="500"/> |
+| 11 May 2024, 05:18:06 UT <img src="predicted-pi2/2024-05-11%2005-18-06%20UT%20SJG.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2005-18-06%20UT%20SJG%2020240511.png" width="500"/> |
+| 11 May 2024, 02:52:36 UT <img src="predicted-pi2/2024-05-11%2002-52-36%20UT%20SJG.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2002-52-36%20UT%20SJG%2020240511.png" width="500"/> |
+| 11 May 2024, 02:42:36 UT <img src="predicted-pi2/2024-05-11%2002-42-36%20UT%20SJG.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2002-42-36%20UT%20SJG%2020240511.png" width="500"/> |
+| 11 May 2024, 02:31:36 UT <img src="predicted-pi2/2024-05-11%2002-31-36%20UT%20SJG.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2002-31-36%20UT%20SJG%2020240511.png" width="500"/> |
+| 11 May 2024, 01:01:54 UT <img src="predicted-pi2/2024-05-11%2001-01-54%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2001-01-54%20UT%20FUR%2020240511.png" width="500"/> |
+| 11 May 2024, 00:49:24 UT <img src="predicted-pi2/2024-05-11%2000-49-24%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2000-49-24%20UT%20FUR%2020240511.png" width="500"/> |
+| 11 May 2024, 00:29:54 UT <img src="predicted-pi2/2024-05-11%2000-29-54%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2000-29-54%20UT%20FUR%2020240511.png" width="500"/> |
+| 11 May 2024, 00:12:24 UT <img src="predicted-pi2/2024-05-11%2000-12-24%20UT%20FUR.png" width="500"/> |  11 May 2024 <img src="wdc-ae/2024-05-11%2000-12-24%20UT%20FUR%2020240511.png" width="500"/> |
 | 10 May 2024, 23:42:53 UT <img src="predicted-pi2/2024-05-10%2023-42-53%20UT%20FUR.png" width="500"/> |  10 May 2024 <img src="wdc-ae/2024-05-10%2023-42-53%20UT%20FUR%2020240510.png" width="500"/> |
 | 10 May 2024, 23:30:23 UT <img src="predicted-pi2/2024-05-10%2023-30-23%20UT%20FUR.png" width="500"/> |  10 May 2024 <img src="wdc-ae/2024-05-10%2023-30-23%20UT%20FUR%2020240510.png" width="500"/> |
 | 10 May 2024, 23:20:23 UT <img src="predicted-pi2/2024-05-10%2023-20-23%20UT%20FUR.png" width="500"/> |  10 May 2024 <img src="wdc-ae/2024-05-10%2023-20-23%20UT%20FUR%2020240510.png" width="500"/> |
