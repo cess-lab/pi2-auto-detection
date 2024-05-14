@@ -1,16 +1,16 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 14 May 2024, 06:05 AM UT  
-> Prediction completed until: 13 May 2024, 12:04 PM UT  
+> Last updated on: 14 May 2024, 12:06 PM UT  
+> Prediction completed until: 13 May 2024, 06:03 PM UT  
   
 
 | Predicted Pi2 | AE index |
 | :---: | :---: |
+| 13 May 2024, 12:20:42 UT <img src="predicted-pi2/2024-05-13%2012-20-42%20UT%20CNB.png" width="500"/> |  13 May 2024 <img src="wdc-ae/2024-05-13%2012-20-42%20UT%20CNB%2020240513.png" width="500"/> |
 | 13 May 2024, 02:42:36 UT <img src="predicted-pi2/2024-05-13%2002-42-36%20UT%20SJG.png" width="500"/> |  13 May 2024 <img src="wdc-ae/2024-05-13%2002-42-36%20UT%20SJG%2020240513.png" width="500"/> |
 | 13 May 2024, 00:39:07 UT <img src="predicted-pi2/2024-05-13%2000-39-07%20UT%20FUR.png" width="500"/> |  13 May 2024 <img src="wdc-ae/2024-05-13%2000-39-07%20UT%20FUR%2020240513.png" width="500"/> |
 | 13 May 2024, 00:27:37 UT <img src="predicted-pi2/2024-05-13%2000-27-37%20UT%20FUR.png" width="500"/> |  13 May 2024 <img src="wdc-ae/2024-05-13%2000-27-37%20UT%20FUR%2020240513.png" width="500"/> |
 | 12 May 2024, 23:24:23 UT <img src="predicted-pi2/2024-05-12%2023-24-23%20UT%20FUR.png" width="500"/> |  12 May 2024 <img src="wdc-ae/2024-05-12%2023-24-23%20UT%20FUR%2020240512.png" width="500"/> |
-| 12 May 2024, 23:04:53 UT <img src="predicted-pi2/2024-05-12%2023-04-53%20UT%20FUR.png" width="500"/> |  12 May 2024 <img src="wdc-ae/2024-05-12%2023-04-53%20UT%20FUR%2020240512.png" width="500"/> |
   
 *Only 5 most recent predictions are shown here. See [full records](FullRecords.md).*  
   
