@@ -1,7 +1,7 @@
 ## Continuous Monitoring System of Pi2 Pulsations
   
-> Last updated on: 18 June 2024, 06:03 AM UT  
-> Prediction completed until: 17 June 2024, 12:03 PM UT  
+> Last updated on: 18 June 2024, 12:04 PM UT  
+> Prediction completed until: 17 June 2024, 06:04 PM UT  
   
 
 | Predicted Pi2 | AE index |
