@@ -3,8 +3,8 @@ run-name: Pi2 predictions updated by ${{ github.actor }}
 on: 
   workflow_dispatch:
   schedule:
-    - cron: 
-    
+    - cron: '0 0/6 * * *'
+jobs:
   update-predictions:
      name: Update Pi2 Predictions
      runs-on: ubuntu-latest
